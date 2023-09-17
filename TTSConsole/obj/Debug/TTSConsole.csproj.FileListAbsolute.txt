@@ -1,0 +1,11 @@
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\bin\Debug\TTSConsole.exe.config
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\bin\Debug\TTSConsole.exe
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\bin\Debug\TTSConsole.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\bin\Debug\ArticPolar.Dev.TTS.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\bin\Debug\ArticPolar.Dev.TTS.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.csproj.AssemblyReference.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.csproj.CopyComplete
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.exe
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\TTSConsole\obj\Debug\TTSConsole.pdb

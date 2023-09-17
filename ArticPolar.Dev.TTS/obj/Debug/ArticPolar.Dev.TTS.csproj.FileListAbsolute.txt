@@ -1,0 +1,6 @@
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\bin\Debug\ArticPolar.Dev.TTS.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\bin\Debug\ArticPolar.Dev.TTS.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\obj\Debug\ArticPolar.Dev.TTS.csproj.AssemblyReference.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\obj\Debug\ArticPolar.Dev.TTS.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\obj\Debug\ArticPolar.Dev.TTS.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.TTS\ArticPolar.Dev.TTS\obj\Debug\ArticPolar.Dev.TTS.pdb
